@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
   "changelog": "• 首个正式版本\n• 支持自动更新检查\n• 优化界面布局",
-  "download_url": "https://github.com/huangger2023/huangdeyipi-releases/releases/latest",
+  "download_url": "https://gitee.com/hgdy2099/huangdeyipi-releases/releases/v1.0.0",
   "files": [
     {
       "name": "huangdeyipi.exe",
-      "url": "https://github.com/huangger2023/huangdeyipi-releases/releases/download/v1.0.0/huangdeyipi.exe",
-      "size": 10682368
+      "url": "https://gitee.com/hgdy2099/huangdeyipi-releases/releases/download/v1.0.0/huangdeyipi.exe",
+      "size": 11282944
     }
   ],
   "backend_version": "1.0.0",

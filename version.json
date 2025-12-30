@@ -4,9 +4,9 @@
   "download_url": "https://github.com/huangger2023/huangdeyipi-releases/releases/latest",
   "files": [
     {
-      "name": "荒的一匹.exe",
-      "url": "https://github.com/huangger2023/huangdeyipi-releases/releases/download/v1.0.0/荒的一匹.exe",
-      "size": 10355200
+      "name": "huangdeyipi.exe",
+      "url": "https://github.com/huangger2023/huangdeyipi-releases/releases/download/v1.0.0/huangdeyipi.exe",
+      "size": 10682368
     }
   ],
   "backend_version": "1.0.0",

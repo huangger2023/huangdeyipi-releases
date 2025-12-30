@@ -1,17 +1,14 @@
 {
   "version": "1.0.0",
-  "changelog": "• 首个正式版本\n• 支持自动更新检查",
-  "download_url": "https://github.com/huangger2023/huangdeyipi-releases/releases",
+  "changelog": "• 首个正式版本\n• 支持自动更新检查\n• 优化界面布局",
+  "download_url": "https://github.com/huangger2023/huangdeyipi-releases/releases/latest",
   "files": [
     {
       "name": "荒的一匹.exe",
       "url": "https://github.com/huangger2023/huangdeyipi-releases/releases/download/v1.0.0/荒的一匹.exe",
       "size": 10355200
-    },
-    {
-      "name": "AI服务.exe", 
-      "url": "https://github.com/huangger2023/huangdeyipi-releases/releases/download/v1.0.0/AI服务.exe",
-      "size": 3513537155
     }
-  ]
+  ],
+  "backend_version": "1.0.0",
+  "backend_note": "如需更新AI服务.exe，请联系客服获取"
 }

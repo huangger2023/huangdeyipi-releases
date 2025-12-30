@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "changelog": "• 首个正式版本\n• 支持自动更新检查",
+  "download_url": "https://github.com/huangger2023/huangdeyipi-releases/releases",
+  "files": [
+    {
+      "name": "荒的一匹.exe",
+      "url": "https://github.com/huangger2023/huangdeyipi-releases/releases/download/v1.0.0/荒的一匹.exe",
+      "size": 10355200
+    },
+    {
+      "name": "AI服务.exe", 
+      "url": "https://github.com/huangger2023/huangdeyipi-releases/releases/download/v1.0.0/AI服务.exe",
+      "size": 3513537155
+    }
+  ]
+}
